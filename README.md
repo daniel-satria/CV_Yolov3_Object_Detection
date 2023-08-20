@@ -35,7 +35,9 @@ python demo.py
 
 It can be seen that yolo v3 has a better classification ability than yolo v2.
 
-![alt text](https://github.com/daniel-satria/CV_Yolov3_Object_Detection/blob/main/images/res/group_people.jpg?raw=true)
+![Demo Prediction](https://github.com/daniel-satria/CV_Yolov3_Object_Detection/blob/main/images/res/group_people.jpg?raw=true)
+
+![Demo GIF](https://github.com/daniel-satria/CV_Yolov3_Object_Detection/blob/main/images/a-closer-look-at-yolov3-06.gif)
 
 
 
