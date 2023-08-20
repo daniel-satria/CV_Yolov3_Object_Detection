@@ -2,7 +2,7 @@
 Keras(TF backend) implementation of yolo v3 objects detection. 
 
 
-![alt text](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*d4Eg17IVJ0L41e7CTWLLSg.png))?raw=true)
+![alt text](https://www.dmprof.com/wp-content/uploads/2020/06/a-closer-look-at-yolov3-03.png?raw=true)
 
 
 According to the paper YOLOv3: An Incremental Improvement
