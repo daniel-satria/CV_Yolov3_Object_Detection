@@ -26,7 +26,7 @@ According to the paper YOLOv3: An Incremental Improvement
 python yad2k.py cfg\yolo.cfg yolov3.weights data\yolo.h5
 ```
 
-- run follow command to show the demo. The result can be found in `images\res\` floder.
+- Run follow command to show the demo. The result can be found in `images\res\` floder.
 ```
 python demo.py
 ```
