@@ -29,7 +29,9 @@ It can be seen that yolo v3 has a better classification ability than yolo v2.
 
 <img width="400" height="350" src="/images/res/group_people"/>
 
-![alt text](http://url/to/img.](https://github.com/daniel-satria/CV_Yolov3_Object_Detection/blob/main/images/res/group_people.jpg)
+![alt text](https://github.com/daniel-satria/CV_Yolov3_Object_Detection/blob/main/images/res/group_people.jpg)
+
+![alt text](https://github.com/daniel-satria/Sentiment_Analysis_DistilBERT/blob/main/assets/distilbert.png?raw=true)
 
 
 
