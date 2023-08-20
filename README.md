@@ -29,6 +29,9 @@ It can be seen that yolo v3 has a better classification ability than yolo v2.
 
 <img width="400" height="350" src="/images/res/group_people"/>
 
+<img src="https://github.com/daniel-satria/CV_Yolov3_Object_Detection/blob/main/images/res/group_people.jpg/>
+
+
 ## TODO
 
 - Train the model.
