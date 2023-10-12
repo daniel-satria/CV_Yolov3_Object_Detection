@@ -19,7 +19,7 @@ According to the paper YOLOv3: An Incremental Improvement
 
 ## Quick start
 
-- Download official [Yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) and put it on top of folder of project.
+- Download official [Yolov3.weights](https://drive.google.com/file/d/16nGHqf9vGwVvoEwzZoaUKVpPghKe8euq/view?usp=sharing) and put it on top of folder of project.
 
 - Run the follow command to convert darknet weight file to keras h5 file. The `yad2k.py` was modified from [allanzelener/YAD2K](https://github.com/allanzelener/YAD2K).
 ```
